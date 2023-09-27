@@ -6,7 +6,7 @@ group: 'Test Results'
 ---
 
 
-This dataset shows the AIS International School (AIS) students performance in the Cambridge Test every year from 2014-2020.
+This chart shows AIS performance in the yearly Cambridge Test from 2014-2020.
 
 ## Chart
 
