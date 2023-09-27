@@ -1,4 +1,4 @@
-## Almaty Intrenational School
+## Almaty International School
 # Welcome to AIS Data Portal!
 
 List of available datasets:
