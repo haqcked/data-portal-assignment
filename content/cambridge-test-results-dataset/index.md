@@ -6,7 +6,7 @@ group: 'Test Results'
 ---
 
 
-This chart shows AIS performance in the yearly Cambridge Test from 2014-2020.
+This chart shows AIS performance in the annual Cambridge Test from 2014-2020.
 
 ## Chart
 
