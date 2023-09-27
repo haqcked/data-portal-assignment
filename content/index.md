@@ -1,7 +1,6 @@
-# My Dataset
+## Almaty Intrenational School
+# Welcome to AIS Data Portal!
 
-Built with PortalJS 
+List of available datasets:
 
-## Table 
-
-<Table url="data.csv" />
+<Catalog datasets={datasets} facets={['group']}/>
